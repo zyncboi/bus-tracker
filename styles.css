@@ -1,0 +1,10 @@
+.box{
+    height: 30px;
+    display: flexbox;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: #ffffff;
+    border-radius: 30px;
+    align-items: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
